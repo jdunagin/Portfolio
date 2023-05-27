@@ -1,9 +1,5 @@
-# DSC 510
-# Week 12
-# Final Project
-# Author Jeff Dunagin
-# 20 November 2021
 
+# imports
 import requests
 
 
